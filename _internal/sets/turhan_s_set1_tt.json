@@ -1,0 +1,32 @@
+[
+  {
+    "en": "apple",
+    "tr": "elma",
+    "pos": "noun"
+  },
+  {
+    "en": "geliştirmek",
+    "tr": "improve",
+    "pos": "verb"
+  },
+  {
+    "en": "English",
+    "tr": "Turkish",
+    "pos": "noun"
+  },
+  {
+    "en": "money",
+    "tr": "para",
+    "pos": "noun"
+  },
+  {
+    "en": "ball",
+    "tr": "top",
+    "pos": "noun"
+  },
+  {
+    "en": "king",
+    "tr": "kral",
+    "pos": "noun"
+  }
+]

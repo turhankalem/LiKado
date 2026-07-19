@@ -1,1 +1,20 @@
-{}
+{
+  "_meta": {
+    "active_pool": [
+      "stakeholder",
+      "negotiate",
+      "accountability",
+      "designate",
+      "revenue",
+      "feasible",
+      "streamline"
+    ]
+  },
+  "streamline": {
+    "mastery": 0,
+    "correct_count": 0,
+    "wrong_count": 1,
+    "correct_streak": 0,
+    "attempts": 1
+  }
+}

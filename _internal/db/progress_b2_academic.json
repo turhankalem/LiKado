@@ -1,1 +1,13 @@
-{}
+{
+  "_meta": {
+    "active_pool": [
+      "preliminary",
+      "evaluate",
+      "coherent",
+      "validity",
+      "hypothesis",
+      "empirical",
+      "interpret"
+    ]
+  }
+}
