@@ -1,0 +1,572 @@
+[
+  {
+    "en": "acquire",
+    "tr": "edinmek, kazanmak",
+    "pos": "verb"
+  },
+  {
+    "en": "advocate",
+    "tr": "savunmak, desteklemek",
+    "pos": "verb"
+  },
+  {
+    "en": "ambiguous",
+    "tr": "belirsiz, muğlak",
+    "pos": "adjective"
+  },
+  {
+    "en": "anticipate",
+    "tr": "öngörmek, beklemek",
+    "pos": "verb"
+  },
+  {
+    "en": "assess",
+    "tr": "değerlendirmek, ölçmek",
+    "pos": "verb"
+  },
+  {
+    "en": "assume",
+    "tr": "varsaymak, üstlenmek",
+    "pos": "verb"
+  },
+  {
+    "en": "attribute",
+    "tr": "atfetmek, bağlamak",
+    "pos": "verb"
+  },
+  {
+    "en": "cease",
+    "tr": "sona ermek, durmak",
+    "pos": "verb"
+  },
+  {
+    "en": "challenge",
+    "tr": "meydan okumak, sorgulamak",
+    "pos": "verb"
+  },
+  {
+    "en": "circumstance",
+    "tr": "koşul, durum",
+    "pos": "noun"
+  },
+  {
+    "en": "cognitive",
+    "tr": "bilişsel, kavramsal",
+    "pos": "adjective"
+  },
+  {
+    "en": "coherent",
+    "tr": "tutarlı, bağdaşık",
+    "pos": "adjective"
+  },
+  {
+    "en": "coincide",
+    "tr": "çakışmak, aynı zamana denk gelmek",
+    "pos": "verb"
+  },
+  {
+    "en": "compensate",
+    "tr": "telafi etmek, karşılamak",
+    "pos": "verb"
+  },
+  {
+    "en": "comply",
+    "tr": "uymak, itaat etmek",
+    "pos": "verb"
+  },
+  {
+    "en": "conceive",
+    "tr": "tasarlamak, aklına getirmek",
+    "pos": "verb"
+  },
+  {
+    "en": "consequence",
+    "tr": "sonuç, netice",
+    "pos": "noun"
+  },
+  {
+    "en": "consistent",
+    "tr": "tutarlı, istikrarlı",
+    "pos": "adjective"
+  },
+  {
+    "en": "constitute",
+    "tr": "oluşturmak, teşkil etmek",
+    "pos": "verb"
+  },
+  {
+    "en": "constraint",
+    "tr": "kısıtlama, sınırlama",
+    "pos": "noun"
+  },
+  {
+    "en": "controversial",
+    "tr": "tartışmalı, ihtilaflı",
+    "pos": "adjective"
+  },
+  {
+    "en": "convey",
+    "tr": "iletmek, aktarmak",
+    "pos": "verb"
+  },
+  {
+    "en": "correlate",
+    "tr": "ilişkilendirmek, bağdaştırmak",
+    "pos": "verb"
+  },
+  {
+    "en": "crucial",
+    "tr": "çok önemli, kritik",
+    "pos": "adjective"
+  },
+  {
+    "en": "decline",
+    "tr": "azalmak, reddetmek",
+    "pos": "verb"
+  },
+  {
+    "en": "deduce",
+    "tr": "çıkarsama yapmak, sonuca varmak",
+    "pos": "verb"
+  },
+  {
+    "en": "deliberate",
+    "tr": "kasıtlı, bilinçli",
+    "pos": "adjective"
+  },
+  {
+    "en": "demonstrate",
+    "tr": "göstermek, kanıtlamak",
+    "pos": "verb"
+  },
+  {
+    "en": "depict",
+    "tr": "tasvir etmek, betimlemek",
+    "pos": "verb"
+  },
+  {
+    "en": "derive",
+    "tr": "türetmek, elde etmek",
+    "pos": "verb"
+  },
+  {
+    "en": "determine",
+    "tr": "belirlemek, saptamak",
+    "pos": "verb"
+  },
+  {
+    "en": "diminish",
+    "tr": "azaltmak, küçültmek",
+    "pos": "verb"
+  },
+  {
+    "en": "distinct",
+    "tr": "belirgin, ayrı",
+    "pos": "adjective"
+  },
+  {
+    "en": "dominant",
+    "tr": "baskın, egemen",
+    "pos": "adjective"
+  },
+  {
+    "en": "elaborate",
+    "tr": "ayrıntılı, kapsamlı",
+    "pos": "adjective"
+  },
+  {
+    "en": "eliminate",
+    "tr": "ortadan kaldırmak, elenmek",
+    "pos": "verb"
+  },
+  {
+    "en": "emerge",
+    "tr": "ortaya çıkmak, belirmek",
+    "pos": "verb"
+  },
+  {
+    "en": "emphasize",
+    "tr": "vurgulamak, önem vermek",
+    "pos": "verb"
+  },
+  {
+    "en": "encounter",
+    "tr": "karşılaşmak, rastlamak",
+    "pos": "verb"
+  },
+  {
+    "en": "endeavor",
+    "tr": "çaba göstermek, girişim",
+    "pos": "verb"
+  },
+  {
+    "en": "enhance",
+    "tr": "geliştirmek, artırmak",
+    "pos": "verb"
+  },
+  {
+    "en": "establish",
+    "tr": "kurmak, oluşturmak",
+    "pos": "verb"
+  },
+  {
+    "en": "evaluate",
+    "tr": "değerlendirmek, ölçmek",
+    "pos": "verb"
+  },
+  {
+    "en": "evolve",
+    "tr": "evrimleşmek, gelişmek",
+    "pos": "verb"
+  },
+  {
+    "en": "exceed",
+    "tr": "aşmak, geçmek",
+    "pos": "verb"
+  },
+  {
+    "en": "explicit",
+    "tr": "açık, net, kesin",
+    "pos": "adjective"
+  },
+  {
+    "en": "exploit",
+    "tr": "sömürmek, kullanmak",
+    "pos": "verb"
+  },
+  {
+    "en": "expose",
+    "tr": "maruz bırakmak, açığa çıkarmak",
+    "pos": "verb"
+  },
+  {
+    "en": "extensive",
+    "tr": "kapsamlı, geniş",
+    "pos": "adjective"
+  },
+  {
+    "en": "facilitate",
+    "tr": "kolaylaştırmak, sağlamak",
+    "pos": "verb"
+  },
+  {
+    "en": "fluctuate",
+    "tr": "dalgalanmak, değişmek",
+    "pos": "verb"
+  },
+  {
+    "en": "formulate",
+    "tr": "formüle etmek, biçimlendirmek",
+    "pos": "verb"
+  },
+  {
+    "en": "fundamental",
+    "tr": "temel, esaslı",
+    "pos": "adjective"
+  },
+  {
+    "en": "generate",
+    "tr": "üretmek, oluşturmak",
+    "pos": "verb"
+  },
+  {
+    "en": "genuine",
+    "tr": "gerçek, otantik",
+    "pos": "adjective"
+  },
+  {
+    "en": "gradual",
+    "tr": "kademeli, yavaş yavaş",
+    "pos": "adjective"
+  },
+  {
+    "en": "highlight",
+    "tr": "ön plana çıkarmak, vurgulamak",
+    "pos": "verb"
+  },
+  {
+    "en": "hypothesis",
+    "tr": "hipotez, varsayım",
+    "pos": "noun"
+  },
+  {
+    "en": "identify",
+    "tr": "tanımlamak, belirlemek",
+    "pos": "verb"
+  },
+  {
+    "en": "imply",
+    "tr": "ima etmek, içermek",
+    "pos": "verb"
+  },
+  {
+    "en": "impose",
+    "tr": "dayatmak, uygulamak",
+    "pos": "verb"
+  },
+  {
+    "en": "incentive",
+    "tr": "teşvik, güdü",
+    "pos": "noun"
+  },
+  {
+    "en": "indicate",
+    "tr": "göstermek, belirtmek",
+    "pos": "verb"
+  },
+  {
+    "en": "inevitable",
+    "tr": "kaçınılmaz, zorunlu",
+    "pos": "adjective"
+  },
+  {
+    "en": "inherent",
+    "tr": "doğasında var olan, özünde bulunan",
+    "pos": "adjective"
+  },
+  {
+    "en": "initiate",
+    "tr": "başlatmak, harekete geçirmek",
+    "pos": "verb"
+  },
+  {
+    "en": "integrate",
+    "tr": "bütünleştirmek, entegre etmek",
+    "pos": "verb"
+  },
+  {
+    "en": "interpret",
+    "tr": "yorumlamak, açıklamak",
+    "pos": "verb"
+  },
+  {
+    "en": "investigate",
+    "tr": "araştırmak, soruşturmak",
+    "pos": "verb"
+  },
+  {
+    "en": "justify",
+    "tr": "haklı çıkarmak, gerekçelendirmek",
+    "pos": "verb"
+  },
+  {
+    "en": "magnitude",
+    "tr": "büyüklük, önem",
+    "pos": "noun"
+  },
+  {
+    "en": "maintain",
+    "tr": "sürdürmek, korumak",
+    "pos": "verb"
+  },
+  {
+    "en": "manipulate",
+    "tr": "manipüle etmek, yönlendirmek",
+    "pos": "verb"
+  },
+  {
+    "en": "mechanism",
+    "tr": "mekanizma, işleyiş",
+    "pos": "noun"
+  },
+  {
+    "en": "minimize",
+    "tr": "en aza indirmek, küçümsemek",
+    "pos": "verb"
+  },
+  {
+    "en": "modify",
+    "tr": "değiştirmek, düzenlemek",
+    "pos": "verb"
+  },
+  {
+    "en": "monitor",
+    "tr": "izlemek, denetlemek",
+    "pos": "verb"
+  },
+  {
+    "en": "notion",
+    "tr": "kavram, fikir",
+    "pos": "noun"
+  },
+  {
+    "en": "obtain",
+    "tr": "elde etmek, kazanmak",
+    "pos": "verb"
+  },
+  {
+    "en": "obvious",
+    "tr": "açık, belirgin",
+    "pos": "adjective"
+  },
+  {
+    "en": "perceive",
+    "tr": "algılamak, fark etmek",
+    "pos": "verb"
+  },
+  {
+    "en": "persist",
+    "tr": "ısrar etmek, devam etmek",
+    "pos": "verb"
+  },
+  {
+    "en": "phenomenon",
+    "tr": "fenomen, olay",
+    "pos": "noun"
+  },
+  {
+    "en": "predominant",
+    "tr": "baskın, egemen",
+    "pos": "adjective"
+  },
+  {
+    "en": "premise",
+    "tr": "önerme, varsayım",
+    "pos": "noun"
+  },
+  {
+    "en": "prevalent",
+    "tr": "yaygın, genel",
+    "pos": "adjective"
+  },
+  {
+    "en": "profound",
+    "tr": "derin, köklü",
+    "pos": "adjective"
+  },
+  {
+    "en": "prohibit",
+    "tr": "yasaklamak, engellemek",
+    "pos": "verb"
+  },
+  {
+    "en": "pursue",
+    "tr": "takip etmek, peşinden gitmek",
+    "pos": "verb"
+  },
+  {
+    "en": "rational",
+    "tr": "mantıklı, akılcı",
+    "pos": "adjective"
+  },
+  {
+    "en": "reinforce",
+    "tr": "pekiştirmek, güçlendirmek",
+    "pos": "verb"
+  },
+  {
+    "en": "relevant",
+    "tr": "ilgili, uygun",
+    "pos": "adjective"
+  },
+  {
+    "en": "reluctant",
+    "tr": "isteksiz, gönülsüz",
+    "pos": "adjective"
+  },
+  {
+    "en": "resemble",
+    "tr": "benzemek",
+    "pos": "verb"
+  },
+  {
+    "en": "restrict",
+    "tr": "kısıtlamak, sınırlamak",
+    "pos": "verb"
+  },
+  {
+    "en": "reveal",
+    "tr": "ortaya koymak, açığa çıkarmak",
+    "pos": "verb"
+  },
+  {
+    "en": "simulate",
+    "tr": "simüle etmek, taklit etmek",
+    "pos": "verb"
+  },
+  {
+    "en": "significant",
+    "tr": "önemli, anlamlı",
+    "pos": "adjective"
+  },
+  {
+    "en": "substantial",
+    "tr": "önemli miktarda, sağlam",
+    "pos": "adjective"
+  },
+  {
+    "en": "subtle",
+    "tr": "ince, nüanslı",
+    "pos": "adjective"
+  },
+  {
+    "en": "sufficient",
+    "tr": "yeterli, kâfi",
+    "pos": "adjective"
+  },
+  {
+    "en": "suppress",
+    "tr": "bastırmak, engellemek",
+    "pos": "verb"
+  },
+  {
+    "en": "sustain",
+    "tr": "sürdürmek, desteklemek",
+    "pos": "verb"
+  },
+  {
+    "en": "tendency",
+    "tr": "eğilim, yatkınlık",
+    "pos": "noun"
+  },
+  {
+    "en": "tolerate",
+    "tr": "tolere etmek, katlanmak",
+    "pos": "verb"
+  },
+  {
+    "en": "transform",
+    "tr": "dönüştürmek, değiştirmek",
+    "pos": "verb"
+  },
+  {
+    "en": "underlying",
+    "tr": "altta yatan, temel",
+    "pos": "adjective"
+  },
+  {
+    "en": "utilize",
+    "tr": "kullanmak, faydalanmak",
+    "pos": "verb"
+  },
+  {
+    "en": "valid",
+    "tr": "geçerli, doğru",
+    "pos": "adjective"
+  },
+  {
+    "en": "verify",
+    "tr": "doğrulamak, teyit etmek",
+    "pos": "verb"
+  },
+  {
+    "en": "volatile",
+    "tr": "değişken, uçucu",
+    "pos": "adjective"
+  },
+  {
+    "en": "widespread",
+    "tr": "yaygın, geniş çaplı",
+    "pos": "adjective"
+  },
+  {
+    "en": "yield",
+    "tr": "vermek, üretmek; teslim olmak",
+    "pos": "verb"
+  },
+  {
+    "en": "test",
+    "tr": "testtest",
+    "pos": "verb"
+  }
+]

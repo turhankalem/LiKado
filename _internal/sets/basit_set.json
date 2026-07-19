@@ -1,0 +1,37 @@
+[
+  {
+    "en": "apple",
+    "tr": "elma",
+    "pos": "noun"
+  },
+  {
+    "en": "book",
+    "tr": "kitap",
+    "pos": "noun"
+  },
+  {
+    "en": "pen",
+    "tr": "kalem",
+    "pos": "noun"
+  },
+  {
+    "en": "eye",
+    "tr": "göz",
+    "pos": "noun"
+  },
+  {
+    "en": "go",
+    "tr": "gitmek",
+    "pos": "noun"
+  },
+  {
+    "en": "two, word",
+    "tr": "iki",
+    "pos": "noun"
+  },
+  {
+    "en": "look",
+    "tr": "bak, gör",
+    "pos": "noun"
+  }
+]

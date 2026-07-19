@@ -1,0 +1,47 @@
+[
+  {
+    "en": "acquire",
+    "tr": "edinmek, kazanmak",
+    "pos": "verb"
+  },
+  {
+    "en": "advocate",
+    "tr": "savunmak, desteklemek",
+    "pos": "verb"
+  },
+  {
+    "en": "allocate",
+    "tr": "tahsis etmek, ayırmak",
+    "pos": "verb"
+  },
+  {
+    "en": "assess",
+    "tr": "değerlendirmek",
+    "pos": "verb"
+  },
+  {
+    "en": "attain",
+    "tr": "ulaşmak, elde etmek",
+    "pos": "verb"
+  },
+  {
+    "en": "book",
+    "tr": "kitap",
+    "pos": "noun"
+  },
+  {
+    "en": "finish",
+    "tr": "bitirmek",
+    "pos": "noun"
+  },
+  {
+    "en": "nurse",
+    "tr": "hemşire",
+    "pos": "noun"
+  },
+  {
+    "en": "percentage",
+    "tr": "yüzde",
+    "pos": "noun"
+  }
+]

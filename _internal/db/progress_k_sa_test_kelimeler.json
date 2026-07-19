@@ -1,0 +1,74 @@
+{
+  "acquire": {
+    "mastery": 5,
+    "correct_count": 9,
+    "wrong_count": 0,
+    "correct_streak": 9,
+    "attempts": 9
+  },
+  "book": {
+    "mastery": 5,
+    "correct_count": 8,
+    "wrong_count": 0,
+    "correct_streak": 8,
+    "attempts": 8
+  },
+  "allocate": {
+    "mastery": 5,
+    "correct_count": 10,
+    "wrong_count": 0,
+    "correct_streak": 10,
+    "attempts": 10
+  },
+  "assess": {
+    "mastery": 0,
+    "correct_count": 11,
+    "wrong_count": 5,
+    "correct_streak": 0,
+    "attempts": 16
+  },
+  "advocate": {
+    "mastery": 0,
+    "correct_count": 8,
+    "wrong_count": 3,
+    "correct_streak": 0,
+    "attempts": 11
+  },
+  "attain": {
+    "mastery": 5,
+    "correct_count": 8,
+    "wrong_count": 0,
+    "correct_streak": 8,
+    "attempts": 8
+  },
+  "_meta": {
+    "active_pool": [
+      "advocate",
+      "assess",
+      "nurse",
+      "percentage",
+      "finish"
+    ]
+  },
+  "nurse": {
+    "mastery": 0,
+    "correct_count": 0,
+    "wrong_count": 3,
+    "correct_streak": 0,
+    "attempts": 3
+  },
+  "percentage": {
+    "mastery": 0,
+    "correct_count": 0,
+    "wrong_count": 2,
+    "correct_streak": 0,
+    "attempts": 2
+  },
+  "finish": {
+    "mastery": 0,
+    "correct_count": 0,
+    "wrong_count": 1,
+    "correct_streak": 0,
+    "attempts": 1
+  }
+}

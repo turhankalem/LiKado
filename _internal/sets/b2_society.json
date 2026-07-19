@@ -1,0 +1,22 @@
+[
+  {"en": "advocate", "tr": "savunmak; savunucu", "pos": "verb"},
+  {"en": "bias", "tr": "önyargı, taraflılık", "pos": "noun"},
+  {"en": "cohesion", "tr": "uyum, birlik", "pos": "noun"},
+  {"en": "controversial", "tr": "tartışmalı", "pos": "adjective"},
+  {"en": "demographic", "tr": "nüfus bilimsel", "pos": "adjective"},
+  {"en": "discrimination", "tr": "ayrımcılık", "pos": "noun"},
+  {"en": "diversity", "tr": "çeşitlilik", "pos": "noun"},
+  {"en": "inequality", "tr": "eşitsizlik", "pos": "noun"},
+  {"en": "integration", "tr": "bütünleşme, entegrasyon", "pos": "noun"},
+  {"en": "legislation", "tr": "mevzuat, yasama", "pos": "noun"},
+  {"en": "marginalized", "tr": "ötekileştirilmiş", "pos": "adjective"},
+  {"en": "migration", "tr": "göç", "pos": "noun"},
+  {"en": "perception", "tr": "algı", "pos": "noun"},
+  {"en": "prejudice", "tr": "önyargı", "pos": "noun"},
+  {"en": "privilege", "tr": "ayrıcalık", "pos": "noun"},
+  {"en": "regulate", "tr": "düzenlemek, denetlemek", "pos": "verb"},
+  {"en": "resilience", "tr": "dayanıklılık, toparlanma gücü", "pos": "noun"},
+  {"en": "stereotype", "tr": "kalıp yargı", "pos": "noun"},
+  {"en": "urbanization", "tr": "kentleşme", "pos": "noun"},
+  {"en": "welfare", "tr": "refah, sosyal yardım", "pos": "noun"}
+]

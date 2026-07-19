@@ -1,0 +1,22 @@
+[
+  {"en": "biodiversity", "tr": "biyolojik çeşitlilik", "pos": "noun"},
+  {"en": "conservation", "tr": "koruma", "pos": "noun"},
+  {"en": "contaminate", "tr": "kirletmek", "pos": "verb"},
+  {"en": "depletion", "tr": "tükenme, azalma", "pos": "noun"},
+  {"en": "deteriorate", "tr": "kötüleşmek, bozulmak", "pos": "verb"},
+  {"en": "ecosystem", "tr": "ekosistem", "pos": "noun"},
+  {"en": "emission", "tr": "salım, emisyon", "pos": "noun"},
+  {"en": "endangered", "tr": "nesli tükenme tehlikesinde", "pos": "adjective"},
+  {"en": "erosion", "tr": "erozyon, aşınma", "pos": "noun"},
+  {"en": "fossil fuel", "tr": "fosil yakıt", "pos": "noun"},
+  {"en": "habitat", "tr": "yaşam alanı", "pos": "noun"},
+  {"en": "mitigate", "tr": "hafifletmek, azaltmak", "pos": "verb"},
+  {"en": "pollutant", "tr": "kirletici madde", "pos": "noun"},
+  {"en": "renewable", "tr": "yenilenebilir", "pos": "adjective"},
+  {"en": "restoration", "tr": "yenileme, eski hâline getirme", "pos": "noun"},
+  {"en": "scarcity", "tr": "kıtlık, azlık", "pos": "noun"},
+  {"en": "sustainable", "tr": "sürdürülebilir", "pos": "adjective"},
+  {"en": "toxic", "tr": "zehirli", "pos": "adjective"},
+  {"en": "vegetation", "tr": "bitki örtüsü", "pos": "noun"},
+  {"en": "vulnerable", "tr": "savunmasız, hassas", "pos": "adjective"}
+]

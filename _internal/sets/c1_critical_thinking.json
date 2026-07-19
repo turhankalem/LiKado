@@ -1,0 +1,22 @@
+[
+  {"en": "ambiguous", "tr": "belirsiz, iki anlamlı", "pos": "adjective"},
+  {"en": "assertion", "tr": "iddia, ileri sürme", "pos": "noun"},
+  {"en": "assumption", "tr": "varsayım", "pos": "noun"},
+  {"en": "concede", "tr": "kabul etmek, taviz vermek", "pos": "verb"},
+  {"en": "contradict", "tr": "çelişmek, aksini söylemek", "pos": "verb"},
+  {"en": "corroborate", "tr": "doğrulamak, desteklemek", "pos": "verb"},
+  {"en": "deduce", "tr": "sonuç çıkarmak", "pos": "verb"},
+  {"en": "distort", "tr": "çarpıtmak", "pos": "verb"},
+  {"en": "fallacy", "tr": "mantık yanılgısı", "pos": "noun"},
+  {"en": "impartial", "tr": "tarafsız", "pos": "adjective"},
+  {"en": "implicit", "tr": "örtük, dolaylı", "pos": "adjective"},
+  {"en": "inconsistent", "tr": "tutarsız", "pos": "adjective"},
+  {"en": "justify", "tr": "gerekçelendirmek", "pos": "verb"},
+  {"en": "plausible", "tr": "makul, akla yatkın", "pos": "adjective"},
+  {"en": "premise", "tr": "öncül, dayanak", "pos": "noun"},
+  {"en": "refute", "tr": "çürütmek", "pos": "verb"},
+  {"en": "scrutinize", "tr": "dikkatle incelemek", "pos": "verb"},
+  {"en": "skeptical", "tr": "şüpheci", "pos": "adjective"},
+  {"en": "speculate", "tr": "tahminde bulunmak", "pos": "verb"},
+  {"en": "undermine", "tr": "zayıflatmak, baltalamak", "pos": "verb"}
+]

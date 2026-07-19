@@ -1,0 +1,22 @@
+[
+  {"en": "accountability", "tr": "hesap verebilirlik", "pos": "noun"},
+  {"en": "allocate", "tr": "tahsis etmek", "pos": "verb"},
+  {"en": "collaborate", "tr": "iş birliği yapmak", "pos": "verb"},
+  {"en": "comply", "tr": "uymak, riayet etmek", "pos": "verb"},
+  {"en": "delegate", "tr": "yetki veya görev devretmek", "pos": "verb"},
+  {"en": "deadline", "tr": "son teslim tarihi", "pos": "noun"},
+  {"en": "designate", "tr": "belirlemek, görevlendirmek", "pos": "verb"},
+  {"en": "efficient", "tr": "verimli", "pos": "adjective"},
+  {"en": "facilitate", "tr": "kolaylaştırmak", "pos": "verb"},
+  {"en": "feasible", "tr": "uygulanabilir", "pos": "adjective"},
+  {"en": "implement", "tr": "uygulamak", "pos": "verb"},
+  {"en": "incentive", "tr": "teşvik", "pos": "noun"},
+  {"en": "initiative", "tr": "girişim, inisiyatif", "pos": "noun"},
+  {"en": "negotiate", "tr": "müzakere etmek", "pos": "verb"},
+  {"en": "outsource", "tr": "dış kaynak kullanmak", "pos": "verb"},
+  {"en": "productivity", "tr": "üretkenlik", "pos": "noun"},
+  {"en": "prospective", "tr": "muhtemel, gelecekteki", "pos": "adjective"},
+  {"en": "revenue", "tr": "gelir, hasılat", "pos": "noun"},
+  {"en": "stakeholder", "tr": "paydaş", "pos": "noun"},
+  {"en": "streamline", "tr": "sadeleştirip verimli hâle getirmek", "pos": "verb"}
+]

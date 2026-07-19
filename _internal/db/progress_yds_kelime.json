@@ -1,0 +1,139 @@
+{
+  "fluctuate": {
+    "mastery": 3,
+    "correct_count": 3,
+    "wrong_count": 1,
+    "correct_streak": 3,
+    "attempts": 4
+  },
+  "interpret": {
+    "mastery": 0,
+    "correct_count": 1,
+    "wrong_count": 3,
+    "correct_streak": 0,
+    "attempts": 4
+  },
+  "widespread": {
+    "mastery": 1,
+    "correct_count": 1,
+    "wrong_count": 1,
+    "correct_streak": 1,
+    "attempts": 2
+  },
+  "comply": {
+    "mastery": 2,
+    "correct_count": 2,
+    "wrong_count": 0,
+    "correct_streak": 2,
+    "attempts": 2
+  },
+  "integrate": {
+    "mastery": 5,
+    "correct_count": 5,
+    "wrong_count": 1,
+    "correct_streak": 5,
+    "attempts": 6
+  },
+  "pursue": {
+    "mastery": 0,
+    "correct_count": 1,
+    "wrong_count": 1,
+    "correct_streak": 0,
+    "attempts": 2
+  },
+  "reinforce": {
+    "mastery": 4,
+    "correct_count": 7,
+    "wrong_count": 4,
+    "correct_streak": 4,
+    "attempts": 11
+  },
+  "imply": {
+    "mastery": 3,
+    "correct_count": 3,
+    "wrong_count": 2,
+    "correct_streak": 3,
+    "attempts": 5
+  },
+  "exceed": {
+    "mastery": 0,
+    "correct_count": 0,
+    "wrong_count": 1,
+    "correct_streak": 0,
+    "attempts": 1
+  },
+  "coincide": {
+    "mastery": 0,
+    "correct_count": 0,
+    "wrong_count": 1,
+    "correct_streak": 0,
+    "attempts": 1
+  },
+  "profound": {
+    "mastery": 0,
+    "correct_count": 0,
+    "wrong_count": 1,
+    "correct_streak": 0,
+    "attempts": 1
+  },
+  "_meta": {
+    "active_pool": [
+      "reinforce",
+      "deliberate",
+      "generate",
+      "imply",
+      "substantial",
+      "compensate",
+      "cognitive"
+    ]
+  },
+  "formulate": {
+    "mastery": 5,
+    "correct_count": 14,
+    "wrong_count": 1,
+    "correct_streak": 12,
+    "attempts": 15
+  },
+  "diminish": {
+    "mastery": 5,
+    "correct_count": 7,
+    "wrong_count": 4,
+    "correct_streak": 4,
+    "attempts": 11
+  },
+  "emerge": {
+    "mastery": 5,
+    "correct_count": 8,
+    "wrong_count": 2,
+    "correct_streak": 7,
+    "attempts": 10
+  },
+  "generate": {
+    "mastery": 4,
+    "correct_count": 4,
+    "wrong_count": 0,
+    "correct_streak": 4,
+    "attempts": 4
+  },
+  "deliberate": {
+    "mastery": 0,
+    "correct_count": 4,
+    "wrong_count": 7,
+    "correct_streak": 0,
+    "attempts": 11
+  },
+  "substantial": {
+    "mastery": 1,
+    "correct_count": 2,
+    "wrong_count": 2,
+    "correct_streak": 1,
+    "attempts": 4
+  },
+  "compensate": {
+    "mastery": 1,
+    "correct_count": 1,
+    "wrong_count": 1,
+    "correct_streak": 1,
+    "attempts": 2
+  }
+}

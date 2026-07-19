@@ -1,0 +1,66 @@
+[
+  {
+    "id": "k_sa_test_kelimeler",
+    "name": "Kısa Test Kelimeler",
+    "description": "Hazır kelime seti",
+    "words_path": "sets\\k_sa_test_kelimeler.json",
+    "progress_path": "db\\progress_k_sa_test_kelimeler.json",
+    "last_studied_at": "2026-07-19T18:40:54.804264+00:00"
+  },
+  {
+    "id": "yds_kelime",
+    "name": "YDS Kelime",
+    "description": "YDS 1-100 kelime",
+    "words_path": "sets\\yds_kelime.json",
+    "progress_path": "db\\progress_yds_kelime.json",
+    "last_studied_at": "2026-07-19T18:39:11.034190+00:00"
+  },
+  {
+    "id": "basit_set",
+    "name": "Basit Set",
+    "description": "test",
+    "words_path": "sets\\basit_set.json",
+    "progress_path": "db\\progress_basit_set.json",
+    "last_studied_at": "2026-07-19T18:39:00.352346+00:00"
+  },
+  {
+    "id": "b2_academic",
+    "name": "B2+ Akademik İngilizce",
+    "description": "Akademik okuma ve araştırma için 20 ileri düzey kelime",
+    "words_path": "sets\\b2_academic.json",
+    "progress_path": "db\\progress_b2_academic.json",
+    "last_studied_at": "2026-07-19T18:38:49.739042+00:00"
+  },
+  {
+    "id": "b2_workplace",
+    "name": "B2+ İş Hayatı",
+    "description": "Profesyonel yaşam için 20 ileri düzey kelime",
+    "words_path": "sets\\b2_workplace.json",
+    "progress_path": "db\\progress_b2_workplace.json",
+    "last_studied_at": "2026-07-19T18:38:46.402344+00:00"
+  },
+  {
+    "id": "b2_society",
+    "name": "B2+ Toplum",
+    "description": "Toplum ve sosyal konular için 20 ileri düzey kelime",
+    "words_path": "sets\\b2_society.json",
+    "progress_path": "db\\progress_b2_society.json",
+    "last_studied_at": "2026-07-19T18:39:15.709000+00:00"
+  },
+  {
+    "id": "b2_environment",
+    "name": "B2+ Çevre",
+    "description": "Çevre ve sürdürülebilirlik için 20 ileri düzey kelime",
+    "words_path": "sets\\b2_environment.json",
+    "progress_path": "db\\progress_b2_environment.json",
+    "last_studied_at": "2026-07-19T18:38:37.781668+00:00"
+  },
+  {
+    "id": "c1_critical_thinking",
+    "name": "C1 Eleştirel Düşünme",
+    "description": "Argüman ve eleştirel düşünme için 20 ileri düzey kelime",
+    "words_path": "sets\\c1_critical_thinking.json",
+    "progress_path": "db\\progress_c1_critical_thinking.json",
+    "last_studied_at": "2026-07-19T18:38:42.045379+00:00"
+  }
+]

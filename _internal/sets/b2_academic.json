@@ -1,0 +1,22 @@
+[
+  {"en": "analyze", "tr": "analiz etmek", "pos": "verb"},
+  {"en": "assess", "tr": "değerlendirmek", "pos": "verb"},
+  {"en": "coherent", "tr": "tutarlı, anlamlı", "pos": "adjective"},
+  {"en": "compile", "tr": "derlemek", "pos": "verb"},
+  {"en": "consecutive", "tr": "ardışık", "pos": "adjective"},
+  {"en": "derive", "tr": "elde etmek, türetmek", "pos": "verb"},
+  {"en": "empirical", "tr": "deneysel, gözleme dayalı", "pos": "adjective"},
+  {"en": "evaluate", "tr": "değerlendirmek", "pos": "verb"},
+  {"en": "framework", "tr": "çerçeve, sistem", "pos": "noun"},
+  {"en": "hypothesis", "tr": "hipotez", "pos": "noun"},
+  {"en": "infer", "tr": "çıkarım yapmak", "pos": "verb"},
+  {"en": "interpret", "tr": "yorumlamak", "pos": "verb"},
+  {"en": "methodology", "tr": "yöntem bilimi", "pos": "noun"},
+  {"en": "objective", "tr": "amaç; tarafsız", "pos": "noun"},
+  {"en": "parameter", "tr": "parametre, ölçüt", "pos": "noun"},
+  {"en": "preliminary", "tr": "ön, başlangıç niteliğinde", "pos": "adjective"},
+  {"en": "quantitative", "tr": "nicel", "pos": "adjective"},
+  {"en": "relevant", "tr": "ilgili, uygun", "pos": "adjective"},
+  {"en": "substantiate", "tr": "kanıtlarla desteklemek", "pos": "verb"},
+  {"en": "validity", "tr": "geçerlilik", "pos": "noun"}
+]
