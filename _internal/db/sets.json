@@ -42,7 +42,7 @@
     "description": "Akademik okuma ve araştırma için 20 ileri düzey kelime",
     "words_path": "sets\\b2_academic.json",
     "progress_path": "db\\progress_b2_academic.json",
-    "last_studied_at": "2026-07-19T22:25:19.492064+00:00"
+    "last_studied_at": "2026-07-19T22:31:12.390939+00:00"
   },
   {
     "id": "b2_workplace",
