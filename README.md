@@ -1,4 +1,3 @@
-<img width="1910" height="1018" alt="bilgi" src="https://github.com/user-attachments/assets/5781f23b-5f23-4901-b609-3add845d8743" />
 # LiKado
 
 İngilizce kelime öğrenmeyi sıkıcı ezberlerden çıkarıp keyifli ve etkili bir deneyime dönüştürün!  
