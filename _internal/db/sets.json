@@ -42,7 +42,7 @@
     "description": "Akademik okuma ve araştırma için 20 ileri düzey kelime",
     "words_path": "sets\\b2_academic.json",
     "progress_path": "db\\progress_b2_academic.json",
-    "last_studied_at": "2026-07-19T22:31:12.390939+00:00"
+    "last_studied_at": "2026-07-20T18:55:12.638352+00:00"
   },
   {
     "id": "b2_workplace",
@@ -50,7 +50,7 @@
     "description": "Profesyonel yaşam için 20 ileri düzey kelime",
     "words_path": "sets\\b2_workplace.json",
     "progress_path": "db\\progress_b2_workplace.json",
-    "last_studied_at": "2026-07-19T22:19:31.068466+00:00"
+    "last_studied_at": "2026-07-21T17:57:14.250003+00:00"
   },
   {
     "id": "b2_society",
@@ -74,6 +74,6 @@
     "description": "Argüman ve eleştirel düşünme için 20 ileri düzey kelime",
     "words_path": "sets\\c1_critical_thinking.json",
     "progress_path": "db\\progress_c1_critical_thinking.json",
-    "last_studied_at": "2026-07-19T17:53:12.827769+00:00"
+    "last_studied_at": "2026-07-21T18:21:42.396984+00:00"
   }
 ]
